@@ -42,6 +42,7 @@ Name | Description
 ---|---
 [swagger-sdk](https://www.forgebox.io/view/swagger-sdk) | This module allows for software development using the Swagger/OpenAPI specification and utilizes the v3.0 OpenAPI Specification
 [cbSwagger](https://www.forgebox.io/view/cbswagger) | This module automatically generates OpenAPI ( fka Swagger ) documentation from your configured ColdBox MVC application and module routes.
+[Relax](https://www.forgebox.io/view/relax) | A module for the ColdBox MVC Framework that can import/export swagger specifications to generate MVC routing, testing and more importantly documentation (html,pdf,markup,etc)
 
 #### D
 
